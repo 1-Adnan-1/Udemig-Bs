@@ -16,5 +16,4 @@ Bootstrap: Hızlı ve esnek tasarım bileşenleri için.
 
 GİF
 
-![ZightRecording2024-11-22at07 50 43PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a52ab552-d3bd-47f0-b177-48af0906d453)
-
+![ZightRecording2024-11-22at07 54 46PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/386466af-5335-43f5-8ed9-69762606a4cf)
