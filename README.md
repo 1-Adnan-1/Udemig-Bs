@@ -14,6 +14,7 @@ HTML: Sayfa yapısını oluşturmak için.
 CSS: Görsel tasarımı güzelleştirmek için.
 Bootstrap: Hızlı ve esnek tasarım bileşenleri için.
 
-gif
+GİF
 
-![Uploading ZightRecording2024-11-22at07.50.43PM-ezgif.com-video-to-gif-converter.gif…]()
+![ZightRecording2024-11-22at07 50 43PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a52ab552-d3bd-47f0-b177-48af0906d453)
+
